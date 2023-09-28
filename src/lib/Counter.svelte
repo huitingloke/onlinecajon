@@ -2,8 +2,8 @@
   import { Sound } from "svelte-sound";
   import boom from "../assets/boom.wav";
   import chak from "../assets/chak.wav";
-  import softcym from "../assets/softcymbal.mp3";
-  import loudcym from "../assets/loudcymbal.mp3";
+  import softcym from "../assets/softcymbal.wav";
+  import loudcym from "../assets/loudcymbal.wav";
 
   const boom_sound = new Sound(boom);
   const chak_sound = new Sound(chak);
